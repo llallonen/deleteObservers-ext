@@ -6,7 +6,6 @@
         {
             "matches": ["https://*.hh.ru/vacancy/*"],
             "js": ["script.js"],
-            "css": ["style.css"],
             "run_at": "document_start"
         }
     ],
